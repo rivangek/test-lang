@@ -1,0 +1,7 @@
+local var = "John"
+
+function hello(v: string)
+    print("Hello, "..var)
+end
+
+hello(var)
